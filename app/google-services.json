@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266616856514",
+    "firebase_url": "https://snaptext-ee97f.firebaseio.com",
+    "project_id": "snaptext-ee97f",
+    "storage_bucket": "snaptext-ee97f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266616856514:android:68724406a5f2dcfe9b005b",
+        "android_client_info": {
+          "package_name": "com.khemraj.snaptext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266616856514-een67qg4oa2dvujvoabbdv0e0lf2clvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-AURHngGk_3uHH5RjdeyvJAQm6K0-2eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266616856514-een67qg4oa2dvujvoabbdv0e0lf2clvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
